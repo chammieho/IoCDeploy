@@ -1,0 +1,1 @@
+This is the ARM template for Azure SQL Server and SQL Database initialisation
